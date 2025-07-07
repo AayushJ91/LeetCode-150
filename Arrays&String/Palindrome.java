@@ -1,3 +1,9 @@
+//Problem: check whether the string is a palindrome or not. it should contain AlphaNumeric key;
+//link: https://leetcode.com/problems/valid-palindrome/?envType=study-plan-v2&envId=top-interview-150
+//Source: LeetCode (26)
+//Topics: Arrays
+//Diff: Easy
+
 public class Palindrome {
     public static boolean isPalindrome(String s) {
         //Time: 13 ms, beats 42.09;
