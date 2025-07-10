@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Arrays&amp;String" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/HashMap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedLists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stack" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
