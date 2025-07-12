@@ -2,7 +2,7 @@
 //link: https://leetcode.com/problems/rotate-list/?envType=study-plan-v2&envId=top-interview-150
 //Source: LeetCode(61)
 //Topics: Linked List
-//Diff: Med
+//Diff: Med - done
 
 import java.util.List;
 
@@ -36,11 +36,3 @@ public class Rotate {
     }
 }
 
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode() {}
-    ListNode(int val) { this.val = val; }
-    ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-
-}
