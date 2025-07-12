@@ -2,7 +2,7 @@
 //link: https://leetcode.com/problems/ransom-note/?envType=study-plan-v2&envId=top-interview-150
 //Source: LeetCode (383)
 //Topics: HashMap
-//Diff: Easy
+//Diff: Easy done by soln
 
 import java.util.ArrayList;
 import java.util.Arrays;

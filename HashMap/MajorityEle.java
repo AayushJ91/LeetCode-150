@@ -2,7 +2,7 @@
 //link: https://leetcode.com/problems/majority-element/?envType=study-plan-v2&envId=top-interview-150
 //Source: LeetCode(169)
 //Topics: HashMap
-//Diff: Easy
+//Diff: Easy done
 
 import java.util.HashMap;
 import java.util.Map;

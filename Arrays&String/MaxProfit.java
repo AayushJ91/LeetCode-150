@@ -2,7 +2,7 @@
 //link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1693792071/?envType=study-plan-v2&envId=top-interview-150
 //Source: LeetCode(121)
 //Topics: Array
-//Diff: Easy
+//Diff: Easy nhi hua
 
 public class MaxProfit {
     //Exceeded the Time limit
