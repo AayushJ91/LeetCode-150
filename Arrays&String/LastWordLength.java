@@ -2,7 +2,7 @@
 //link: https://leetcode.com/problems/length-of-last-word/description/?envType=study-plan-v2&envId=top-interview-150
 //Source: LeetCode(58)
 //Topics: String
-//Diff: Easy
+//Diff: Easy-done
 
 import java.util.ArrayList;
 import java.util.Collections;
